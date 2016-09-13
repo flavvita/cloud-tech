@@ -4,18 +4,18 @@ Projeto << Cloud-tech >>
 -----------------------------------------------
 < Introdução >
 
-    Este projeto visa auxiliar o estudante com a organização do conteúdo 
-  de trabalhos e provas e possíveis avisos de relevância para o mesmo.
+   Este projeto visa auxiliar o estudante com a organização do conteúdo 
+ de trabalhos e provas e possíveis avisos de relevância para o mesmo.
   
 < Justificativa >
 
-    Por muitas vezes os alunos acabam por não enviar seus trabalhos e 
-   tendo uma má organização do material para provas tendo em vista 
-   também há notificações sobre avisos ,mudanças nas tarefas estudantis.
+   Por muitas vezes os alunos acabam por não enviar seus trabalhos e 
+  tendo uma má organização do material para provas tendo em vista 
+  também há notificações sobre avisos ,mudanças nas tarefas estudantis.
    
 < Referencial teórico >
 
-    Destina-se a apresentar as leituras e fundamentos teóricos que embasam a proposta do projeto.
+ Destina-se a apresentar as leituras e fundamentos teóricos que embasam a proposta do projeto.
     
 < Objetivos >
 
@@ -32,7 +32,7 @@ Projeto << Cloud-tech >>
   
 < Cronograma >
 
-   Destina-se a traduzir as ações a serem realizadas, distribuindo-as no espaço de tempo disponível para a realização do projeto.
+ Destina-se a traduzir as ações a serem realizadas, distribuindo-as no espaço de tempo disponível para a realização do projeto.
 =================================================================
 Equipe << Turma do bairro >>
 -----------------------------------------------
