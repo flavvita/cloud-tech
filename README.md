@@ -1,7 +1,7 @@
 # cloud-tech
 
 Projeto << Cloud-tech >>
------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 < Introdução >
 
    Este projeto visa auxiliar o estudante com a organização do conteúdo 
@@ -33,16 +33,17 @@ Projeto << Cloud-tech >>
 < Cronograma >
 
  Destina-se a traduzir as ações a serem realizadas, distribuindo-as no espaço de tempo disponível para a realização do projeto.
-=================================================================
+-------------------------------------------------------------------------------------------------------------------------------
 Equipe << Turma do bairro >>
 -----------------------------------------------
 1º kelvany alcantara (programador & gerente)
+
 2º douglas silva     (programador & designer)
+
 3º jainara almeida   (programador(a) & designer)
-================================================================
+-------------------------------------------------------------------------------------------------------------------------------
 Cronograma
 -----------------------------------------------
-<< 08/09/16 Entrega do Wireframe...>>
-
+<08/09/16 Entrega do Wireframe...>
 00/00/00 descrever atividade
 00/00/00 descrever atividade
